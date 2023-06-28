@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'apolt01-010/prueba-reto-php-filtro',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'bb0e0c8ef3c80bf1cac70002c4f5b42e5afcc65e',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'apolt01-010/prueba-reto-php-filtro' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'bb0e0c8ef3c80bf1cac70002c4f5b42e5afcc65e',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
