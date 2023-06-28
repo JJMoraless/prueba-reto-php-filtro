@@ -43,8 +43,12 @@ CREATE TABLE campers(
 
 - se puede obtener un pais en especifico con la id  http://localhost/ApolT01-010/prueba-reto-php-filtro/pais/{id}
 
-- 
+- se puede post de un pais   http://localhost/ApolT01-010/prueba-reto-php-filtro/pais
+
+- se peude obtener todos los paises 
+http://localhost/ApolT01-010/prueba-reto-php-filtro/paises
 
 
+- se impleto la logica de obtener y actualizar camper en modelo  pero  no se lancanzo a implmentar en la endpoint
 
 

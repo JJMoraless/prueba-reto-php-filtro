@@ -14,8 +14,6 @@ $router->get("/pais/{id}",[PaisController::class, 'getPais'] );
 $router->post("/pais",[PaisController::class, 'savePais'] );
 $router->get("/paises",[PaisController::class, 'getPaises'] );
 
-
-
 $router->post("/camper",[CamperController::class, 'saveCamper'] );
 
 
