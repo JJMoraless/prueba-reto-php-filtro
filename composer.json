@@ -1,0 +1,20 @@
+{
+    "name": "apolt01-010/prueba-reto-php-filtro",
+    "description": "reto campus",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jhon Jairo Morales Garcia"
+        }
+    ],
+    "require": {
+        "bramus/router": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Config\\":"./config",
+            "Models\\": "./models",
+            "Controllers\\": "./controllers"
+        }
+    }
+}
