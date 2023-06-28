@@ -1,4 +1,5 @@
 # codigo sql usado para la creacion de la db
+## Jhon Jairo Morales Garcia
 
 ```mysql
 CREATE DATABASE campuslands;
@@ -50,5 +51,8 @@ http://localhost/ApolT01-010/prueba-reto-php-filtro/paises
 
 
 - se impleto la logica de obtener y actualizar camper en modelo  pero  no se lancanzo a implmentar en la endpoint
+
+
+
 
 
