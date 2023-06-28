@@ -1,5 +1,5 @@
 # codigo sql usado para la creacion de la db
-## Jhon Jairo Morales Garcia
+## Jhon Jairo Morales Garcia M3
 
 ```mysql
 CREATE DATABASE campuslands;
